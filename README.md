@@ -11,4 +11,4 @@ I'm not a consistent writer (for now) but you can still checkout some of the tec
 - 💡 Fun fact: I'm a devops/cloud engineering graduate of [AltSchool Africa'23](https://altschoolafrica.com/schools/engineering)
 - 😊 I’m looking for help with open source projects, hackathons, internships, and entry-level opportunities.
 - 💼 Job interests: Software Engineering jobs that span across backend, devops and cloud
-- 📫 You can [view my resume](https://drive.google.com/drive/u/0/folders/1_7hklJmbzQ253PsnPpc7RW0bJHcHnjxs) and contact me by emailing <davidoluwatobi41@gmail.com>
+- 📫 You can [view my resume](https://drive.google.com/file/d/1Uz7BirrnlNv6_NK9n3HMNpjvpMQHc8jD/view?usp=sharing) and contact me by emailing <davidoluwatobi41@gmail.com>
