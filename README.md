@@ -1,14 +1,17 @@
 # Hello there; welcome 👋🏾
 
-[![Linkedin Badge](https://img.shields.io/badge/-davidoluwatobi-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/davidoluwatobi)](https://www.linkedin.com/in/davidoluwatobi) [![Twitter Badge](https://img.shields.io/badge/-@iEphods-1ca0f1?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/iEphods)](https://twitter.com/iEphods)
+I am a Software Engineer with expertise in backend development and DevOps, and a strong background in laboratory technologies (chemistry/biochemistry). My primary stack includes TypeScript, JavaScript, Go, and Python, along with DevOps tools such as Docker, Kubernetes, Terraform, Jenkins, Ansible, AWS, and Git.
 
-I am a Software Engineer (with backend and devops expertise). My stack is Go, Python and Haskell plus devops tools such as Terraform, Docker, Kubernetes, Jenkins, Ansible, AWS, Git and Others.
-
-I'm not a consistent writer (for now) but you can still checkout some of the technical articles I have on my [blog page](https://decode.hashnode.dev/).
+While I'm not a consistent writer yet, you can check out some of my technical articles on my [blog page](https://decode.hashnode.dev/).
 
 **Here's a quick summary about me**:
 
-- 💡 Fun fact: I'm a devops/cloud engineering graduate of [AltSchool Africa'23](https://altschoolafrica.com/schools/engineering)
-- 😊 I’m looking for help with open source projects, hackathons, internships, and entry-level opportunities.
-- 💼 Job interests: Software Engineering jobs that span across backend, devops and cloud
-- 📫 You can [view my resume](https://drive.google.com/file/d/1Uz7BirrnlNv6_NK9n3HMNpjvpMQHc8jD/view?usp=sharing) and contact me by emailing <davidoluwatobi41@gmail.com>
+- 💡 Fun fact: I blend my software engineering skills with a solid foundation in chemistry/biochemistry, bringing a unique interdisciplinary perspective to tech projects.
+- 🎓 Currently pursuing a BSc in Computer Science (expected August '25) while working as a full-time Software Engineer.
+- 🏆 Cloud Engineering and DevOps graduate from [AltSchool Africa'23](https://altschoolafrica.com/schools/engineering).
+- 💼 Working as a Backend Software Engineer building 'Holiday Alot'.
+- 🔧 Developing a systems monitoring, logging, and analytics tool for my final year CS project, showcasing my interest in deep systems understanding.
+- 📚 Passionate about continuous learning and quickly adapting to new technologies.
+- 😊 Open to collaboration on open source projects, hackathons, and new opportunities in software engineering.
+- 💼 Job interests: Software Engineering roles in backend development, DevOps, and cloud technologies.
+- 📫 You can [view my resume](https://drive.google.com/file/d/1qhmznI6jDzxKbKGk3O6oCEdFDqSf4Q4d/view?usp=sharing) and contact me by emailing davidoluwatobi41@gmail.com
