@@ -6,7 +6,7 @@ While I'm not a consistent writer yet, you can check out some of my technical ar
 
 **Here's a quick summary about me**:
 
-- 💡 Fun fact: I blend my software engineering skills with a solid foundation in chemistry/biochemistry, bringing a unique interdisciplinary perspective to tech projects.
+- 💡 Fun fact: I blend my software engineering skills with a solid foundation in chemistry/biochemistry, bringing a unique multidisciplinary perspective to tech projects.
 - 🎓 Currently pursuing a BSc in Computer Science (expected August '25) while working as a full-time Software Engineer.
 - 🏆 Cloud Engineering and DevOps graduate from [AltSchool Africa'23](https://altschoolafrica.com/schools/engineering).
 - 💼 Working as a Backend Software Engineer building 'Holiday Alot'.
