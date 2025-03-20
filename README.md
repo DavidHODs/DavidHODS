@@ -1,17 +1,19 @@
-# Hello there; welcome 👋🏾
+# Hello there; welcome 👋🏾  
 
-I am a Software Engineer with expertise in backend development and DevOps, and a strong background in laboratory technologies (chemistry/biochemistry). My primary stack includes TypeScript, JavaScript, Go, and Python, along with DevOps tools such as Docker, Kubernetes, Terraform, Jenkins, Ansible, AWS, and Git.
+I am a **Software Engineer** with an interdisciplinary background spanning **science technologies (chemistry/biochemistry), cloud engineering & DevOps, and computer science**. I take a **pragmatic engineering approach**, using the best tools for the problem rather than being tied to a single stack.  
 
-While I'm not a consistent writer yet, you can check out some of my technical articles on my [blog page](https://decode.hashnode.dev/).
+I can **conveniently jump into projects** built with **TypeScript, JavaScript, Python, Go, Haskell and DevOps technologies** without needing days (or a week) to ramp up.  
 
-**Here's a quick summary about me**:
+## **Quick Summary About Me:**  
 
-- 💡 Fun fact: I blend my software engineering skills with a solid foundation in chemistry/biochemistry, bringing a unique multidisciplinary perspective to tech projects.
-- 🎓 Currently pursuing a BSc in Computer Science (expected August '25) while working as a full-time Software Engineer.
-- 🏆 Cloud Engineering and DevOps graduate from [AltSchool Africa'23](https://altschoolafrica.com/schools/engineering).
-- 💼 Working as a Backend Software Engineer building 'Holiday Alot'.
-- 🔧 Developing a systems monitoring, logging, and analytics tool for my final year CS project, showcasing my interest in deep systems understanding.
-- 📚 Passionate about continuous learning and quickly adapting to new technologies.
-- 😊 Open to collaboration on open source projects, hackathons, and new opportunities in software engineering.
-- 💼 Job interests: Software Engineering roles in backend development, DevOps, and cloud technologies.
-- 📫 You can [view my resume](https://drive.google.com/file/d/1qhmznI6jDzxKbKGk3O6oCEdFDqSf4Q4d/view?usp=sharing) and contact me by emailing davidoluwatobi41@gmail.com
+- 🎓 **Interdisciplinary Education**:  
+  - Science Technologies (Chemistry/Biochemistry)  
+  - Cloud Engineering & DevOps (AltSchool Africa'23 Graduate)  
+  - Computer Science (BSc, expected August '25)  
+- 💼 **Backend Engineer** currently building **Holiday Alot**  
+- 📊 **Exploring Data Engineering & AI**  
+- 📚 Fast learner, continuously adapting to new technologies  
+- 🚀 Open to **collaborations, open-source projects, and hackathons**  
+- 💼 **Job Interests**: Backend development, DevOps, Cloud, and Data Engineering roles  
+
+📫 For inquiries, email me at **<davidoluwatobi41@gmail.com>**
